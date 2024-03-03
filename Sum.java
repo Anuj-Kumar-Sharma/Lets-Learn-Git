@@ -8,3 +8,4 @@ public class Sum {
     }
 
 }
+2+2;
